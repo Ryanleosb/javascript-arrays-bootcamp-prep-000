@@ -4,3 +4,11 @@ function addElementToBeginningOfArray (array, newElement) {
   var newArray = [newElement, ...array]
   return newArray
 };
+
+function destructivelyAddElementToBeginningOfArray (array, newElementelement) {
+  var newArray = [newElement, ...array]
+  return newArray 
+};
+
+}
+]
